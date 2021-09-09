@@ -1,2 +1,2 @@
 # GetXPosure
-A set of scripts for comparing GXP files to ACT covid exposure sites
+A tool for comparing GPX files to ACT covid exposure sites
